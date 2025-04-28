@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Computer Science Student at Warsaw University of Technology<br>🎓 Double Degree in Computer Science & Engineering at Kyungpook National University<br>🤖 Passionate about AI, Web Design, Medical Engineering, and Biotechnology<br>🌍 Always looking for new opportunities to apply my knowledge and grow in the field of technology.<br>📚 Currently learning more about Machine Learning and Web Development.
+👨‍💻 Computer Science Student at Warsaw University of Technology<br>🎓 Pursuing a <strong>Double Degree</strong> in Computer Science & Engineering at Kyungpook National University 🇰🇷 <br>🤖 Passionate about AI, Web Design, Medical Engineering, and Biotechnology<br>🌍 Always looking for new opportunities to apply my knowledge and grow in the field of technology.<br>📚 Currently learning more about Machine Learning and Web Development.
 
 
 ## 🌐 Socials:
